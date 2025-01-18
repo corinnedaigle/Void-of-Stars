@@ -1,4 +1,4 @@
-# Void-of-Stars2.0
+# Void of Stars2.0
 
 Game Project: Void of Stars
 Creator: Corinne Daigle
