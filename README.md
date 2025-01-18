@@ -1,9 +1,13 @@
 # Void of Stars2.0
 
 Game Project: Void of Stars
+
 Creator: Corinne Daigle
+
 Version: 2.0
+
 Date: 1/18/25
+
 
 New features
 Characters have names - The moon is now called Artemis, and all the comets have names based on what comets are made of. 
